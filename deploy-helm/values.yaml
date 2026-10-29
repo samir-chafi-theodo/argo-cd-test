@@ -1,0 +1,8 @@
+replicas: 3
+service:
+  enabled: true
+annotations: 
+  pizza: pepperoni
+  drink: coffee
+  hotel: trivago
+pages: ['1', '2', '3']
